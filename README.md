@@ -1,7 +1,7 @@
 # ROYAL TADKA. A online food resturant
 
 ## This is a website made by me and a frind
-I wanted  to code, test and deploy a Full-fleged Website and here it is the source code for the website is uploaded on me friends git-hub which is used to host the website(link given below)
+I wanted  to `code`, `test` and `deploy` a Full-fledged website, and the [source code](https://github.com/rahulsingh97/ROYAL_TADKA) for the website is uploaded on my friend's git-hub which is used to host the website(link given below)
 
 
 <H3 align='right'>
@@ -11,5 +11,3 @@ I wanted  to code, test and deploy a Full-fleged Website and here it is the sour
 </H3>
 
 
-I think you should use an
-`<addr>` element here instead.
